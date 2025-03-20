@@ -1,0 +1,3 @@
+In this lab, I learned how to set up a basic web development environment. I installed Visual Studio Code (VS Code) as my code editor, Git for version control, and 
+Node.js. I created a simple HTML page and learned how to open it in a browser. I also initialized a Git repository for my project, committed my changes, and
+successfully pushed my project to GitHub. This lab gave me the hands-on experience needed to begin web development, use version control with Git.
